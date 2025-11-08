@@ -19,6 +19,7 @@ Developed a fully functional iOS app for booking tables and managing restaurant 
 <img width="340" height="670" alt="image" src="https://github.com/user-attachments/assets/f7b9321b-5da5-453f-9bb4-36b448095006" />
 
 ## 📹 Demo Video
+https://github.com/NadaBastawi/Restaurant-Reservation-App/blob/main/restaurant%20demo%20video.mp4
 
 Watch the app in action:
 
