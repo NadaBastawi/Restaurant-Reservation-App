@@ -23,7 +23,7 @@ https://github.com/NadaBastawi/Restaurant-Reservation-App/blob/main/restaurant%2
 
 Watch the app in action:
 
-<video src="demo/restaurant_demo.mp4" controls width="600">
+<video src="restaurant demo video.mp4" controls width="600">
 Your browser does not support the video tag.
-</video>
+</video
 
